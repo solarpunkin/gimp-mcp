@@ -1,5 +1,4 @@
 __pycache__/
 *.pyc
-*.png
 gimp_bridge_debug.py
 .DS_Store
